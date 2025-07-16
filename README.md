@@ -13,12 +13,6 @@ Application        : Image Recognition, Image Classification, Medical Imaging
 3. Attained testing accuracy of 93.72% and loss 0.30 on 250K+ (6.5GB+) image cancer dataset.
 </pre>
 
-#### Code
-<pre>
-GitHub Link      : <a href=https://github.com/anjanatiha/Histopathologic-Cancer-Detection>Histopathologic Cancer Detection(GitHub)</a>
-GitLab Link      : <a href=https://gitlab.com/anjanatiha/Histopathologic-Cancer-Detection>Histopathologic Cancer Detection(GitLab)</a>
-Portfolio        : <a href=https://anjanatiha.wixsite.com/website>Anjana Tiha's Portfolio</a>
-</pre>
 
 #### Dataset
 <pre>
